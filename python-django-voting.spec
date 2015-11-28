@@ -6,7 +6,7 @@
 Summary:	Generic voting application for Django
 Name:		python-%{module}
 Version:	0.2
-Release:	1
+Release:	2
 License:	BSD
 Group:		Libraries/Python
 Source0:	https://pypi.python.org/packages/source/d/django-voting/django-voting-%{version}.tar.gz
