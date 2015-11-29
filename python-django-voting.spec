@@ -13,7 +13,7 @@ Source0:	https://pypi.python.org/packages/source/d/django-voting/django-voting-%
 # Source0-md5:	d4dbc8c0530f127027f6af6e76f91ead
 URL:		https://pypi.python.org/pypi/django-voting
 BuildRequires:	rpm-pythonprov
-BuildRequires:	rpmbuild(macros) >= 1.219
+BuildRequires:	rpmbuild(macros) >= 1.710
 Requires:	python-modules
 BuildArch:	noarch
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
